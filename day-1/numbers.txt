@@ -7,3 +7,5 @@
 10 ten
 
 11 ELEVEN!!
+
+Thirteen!!! not 12! THIRTEEN!!!
